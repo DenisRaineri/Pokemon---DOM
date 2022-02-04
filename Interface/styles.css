@@ -1,0 +1,150 @@
+  body{
+     background-image: url("https://static.fandomspot.com/images/06/15791/00-featured-firered-omega-screenshot-starters-oaks-lab.jpg");
+    
+    }
+  
+  h1{
+    text-align:center;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 1.5px 0 white, 0 1.5px white, 1.5px 0 white, 0 1.5px white;
+    font-family: 'Trebuchet MS', sans-serif; color: black;
+  }
+
+  p{
+    margin: 5%;
+    text-align:center;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 1.5px 0 white, 0 1.5px white, 1.5px 0 white, 0 1.5px white;
+    font-family: 'Trebuchet MS', sans-serif; color: black;
+  }
+
+
+  .transbox {
+    margin: 3px;
+    height: 100px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+  }
+  div.transbox p {
+    margin: 2.5%;
+    font-weight: bold;
+    color: #000000;
+  }
+
+  #pic1{
+    width: 300px;
+    height: 270px;
+    padding-top: 15px;
+    overflow:hidden;
+    float:left;
+    transition: 0.5s ease;
+    color:#000;
+  }
+  
+  #pic1:hover{
+    height: 550px; 
+    pointer: mouse;
+    -webkit-box-shadow: 2px 2px 5px #999;
+     
+  }
+  
+  #img1{
+     width: 250px;
+     height: 250px;
+     padding-left:25px;
+  }
+  
+  #pic2{
+    width: 300px;
+    height: 270px;
+    float:left;
+    padding-top: 15px;
+    padding-left: 50px;
+    overflow:hidden;
+    transition: 0.8s ease;
+    color:#000;
+  }
+  
+  #pic2:hover{
+   height: 550px; 
+    pointer: mouse;
+    -webkit-box-shadow: 2px 2px 5px #999;
+  }
+
+  #pic3{
+    width: 300px;
+    height: 270px;
+    float:left;
+    padding-top: 15px;
+    padding-left: 50px;
+    overflow:hidden;
+    transition: 0.8s ease;
+    color:#000;
+  }
+  
+  #pic3:hover{
+   height: 550px; 
+    pointer: mouse;
+    -webkit-box-shadow: 2px 2px 5px #999;
+     
+  }
+  
+  
+  .destacado{
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+#alinhar-pagina{
+   padding-left:150px;
+  }
+  
+#alinhar-elemento{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: right;
+}
+
+#alinhar-video{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+}
+
+  .escolher{
+    
+      background-color: #008CBA; 
+      border: none;
+      color: white;
+      padding: 10px 27px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      font-weight: bold;
+      margin-left: 90px;
+      margin-top: 5px;
+  
+  }
+  
+  .escolher:hover{
+    background-color: #4CAF50;; 
+  }
+  
+  
+  
+  
+  
+  
+  
+  
